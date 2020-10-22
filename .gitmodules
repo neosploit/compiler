@@ -1,0 +1,6 @@
+[submodule "libfort"]
+	path = libfort
+	url = https://github.com/seleznevae/libfort.git
+[submodule "uthash"]
+	path = uthash
+	url = https://github.com/troydhanson/uthash.git
